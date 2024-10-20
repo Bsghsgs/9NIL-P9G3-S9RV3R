@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/LRrPTkG/Broken heart pic 4k(JPG).jpg');
+      background-image: url('https://i.ibb.co/SnapTube Image/Broken heart pic 4k(JPG).jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
