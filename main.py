@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">💋𝗠𝗔𝗞𝗘 𝗕𝗬 𝗔𝗡𝗜𝗜𝗟 𝗦𝗣𝗠💋☨</h1>
+    <h1 class="mt-3">💋𝐊𝐇𝐔𝐍𝐈 𝐁𝐀𝐖𝐀𝐒𝐈𝐑 𝐊𝐈 𝐌𝐀 𝐊𝐀 𝐘𝐀𝐑 𝐀𝐍𝐈𝐈𝐋 𝐒𝐏𝐌 𝐇𝐄𝐑𝐄💋</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
