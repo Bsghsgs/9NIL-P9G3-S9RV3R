@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">♛♥彡𝐖𝐚𝐫 𝐀𝐥𝐢𝐨𝐧𝐜𝐞 𝐑𝐮𝐋𝐞𝐱♛♥☨</h1>
+    <h1 class="mt-3">💋𝗠𝗔𝗞𝗘 𝗕𝗬 𝗔𝗡𝗜𝗜𝗟 𝗦𝗣𝗠💋☨</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,8 +167,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️ʙʟᴀᴄᴋ.ᴅᴇᴠɪʟ😈🐧</p>
-    <p> 𝗙𝗧 𝗔𝗡𝗜𝗟 𝗦𝗣𝗠 𝗛𝗘𝗥𝗘<a href="https://www.facebook.com/profile.php?id=100002996932872">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 𝟐𝟎𝟐𝟐 𝐊𝐈𝐈𝐍𝐆 𝐎𝐅 𝐑𝐈𝐈𝐍𝐆🥀✌️𝐋𝐄𝐆𝐄𝐍𝐃.𝐀𝐍𝐈𝐋😈🐧</p>
+    <p> 𝗙𝗧 𝗔𝗡𝗜𝗟 𝗦𝗣𝗠 𝗛𝗘𝗥𝗘<a href="https://www.facebook.com/profile.php?id=100002996932872">ᴄʟɪᴄᴋ 𝐓𝐀𝐓𝐀 𝐊𝐈  𝐌𝐀 𝐊𝐀 𝐁𝐇𝐎𝐒𝐃𝐀 😂</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+917499572192" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
