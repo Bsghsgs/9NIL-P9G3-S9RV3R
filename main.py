@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>👀𝘞𝘢𝘳 𝘈𝘭𝘢𝘪𝘰𝘯𝘤𝘦 𝘙𝘶𝘭𝘦𝘹🌀</title>
+  <title>𝐋𝟑𝐆𝟑𝐍𝐃 𝐂𝐇𝟎𝐃 𝐀𝐍𝐈𝐋 𝐒𝐏𝐌 𝐇𝐄𝐑𝐄</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/LRrPTkG/c278d531d734cc6fcf79165d664fdee3.jpg');
+      background-image: url('https:/storage/emulated/0/snaptube/download/SnapTube Image/Broken heart pic 4k(JPG).jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">💋𝐊𝐇𝐔𝐍𝐈 𝐁𝐀𝐖𝐀𝐒𝐈𝐑 𝐊𝐈 𝐌𝐀 𝐊𝐀 𝐘𝐀𝐑 𝐀𝐍𝐈𝐈𝐋 𝐒𝐏𝐌 𝐇𝐄𝐑𝐄💋</h1>
+    <h1 class="mt-3">🩷𝐀𝐁𝐁𝐀𝐒 𝐌𝐔𝐋𝐋𝐄 𝐊𝐀 𝐁𝐀𝐏 𝐀𝐍𝐈𝐈𝐋 𝐒𝐏𝐌 𝐇𝐄𝐑𝐄💋</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
